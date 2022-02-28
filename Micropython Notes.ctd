@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="MicroPython" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1645831681" ts_lastsave="1645832168">
+    <node name="About" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1645832168" ts_lastsave="1645832859">
+      <rich_text>
+Dear Fellow Programmers,
+</rich_text>
+      <rich_text indent="2">Hello all, I am Daciwolf and this is my guide to help you learn how to use Micropython. I am a beginner myself, that being said I greatly appreciate your suggestions on how to improve the guide and if I happen to mess something up please let </rich_text>
+      <rich_text>me know. I will be explaining things as I see them and a way that is beginner friendly, if it is not exactly what is going on or not the correct terminology you are free to correct me and I encourage it but please keep that in-mind, you are free to submit a change but just know that I may choose to ignore it if I feel as though it is not beginner friendly or a key piece of information about a topic. 
+		-Daciwolf
+
+So with that all out of the way I would like to say how these notes are sturctured</rich_text>
+    </node>
+  </node>
+</cherrytree>
