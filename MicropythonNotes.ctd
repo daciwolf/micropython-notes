@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="MicroPython" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1645831681" ts_lastsave="1646414509">
+    <node name="About" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1645832168" ts_lastsave="1646412152">
+      <rich_text>
+Dear Fellow Programmers,
+</rich_text>
+      <rich_text indent="2">Hello all, I am Daciwolf and this is my guide to help you learn how to use Micropython. I am a beginner myself, that being said I greatly appreciate your suggestions on how to improve the guide and if I happen to mess something up please let </rich_text>
+      <rich_text>me know. I will be explaining things as I see them and a way that is beginner friendly, if it is not exactly what is going on or not the correct terminology you are free to correct me and I encourage it but please keep that in-mind, you are free to submit a change but just know that I may choose to ignore it if I feel as though it is not beginner friendly or a key piece of information about a topic. 
+		-Daciwolf
+
+So with that all out of the way I would like to say how these notes are structured. The formating of these notes is that they have </rich_text>
+    </node>
+    <node name="Controlling GPIO" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1646414509" ts_lastsave="1646414605">
+      <node name="About GPIO" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="1" foreground="" ts_creation="1646412854" ts_lastsave="1646683164">
+        <rich_text scale="h1" weight="heavy">ABOUT</rich_text>
+        <rich_text scale="h1"> </rich_text>
+        <rich_text scale="h1" weight="heavy">GPIO</rich_text>
+        <rich_text>
+</rich_text>
+        <rich_text scale="h2">						</rich_text>
+        <rich_text style="italic" scale="h2">GPIO Pins: </rich_text>
+        <rich_text>
+</rich_text>
+        <rich_text indent="4">A GPIO pin is a pin that is able to transmit electrical power and receive electrical signals, GPIO stands for “general purpose in and out pin”. They are extremely useful for making circuits, getting electrical signals/input form sensors, and controlling external devices (such as motors and LEDS). The board I will be using in this tutorial is a Raspberry Pi Pico. It is  small micro controller board that has 40 GPIO pins. You can find the full documentaion of the Raspberry Pi Pico </rich_text>
+        <rich_text indent="4" link="webs https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html#content">here</rich_text>
+        <rich_text indent="4">. </rich_text>
+        <rich_text>
+</rich_text>
+        <rich_text indent="2" style="italic" scale="h2">Checking the Mapping of the GPIO Pins : </rich_text>
+        <rich_text>
+</rich_text>
+        <rich_text indent="4">To check the mapping of the GPIO pins you should go to the manufactures website and look up the board schematics. For these notes and basicaly all of my projuects I happen to use the Raspberry PI Pico whose documentation can be found here.  The following image is from the Raspberry Pi foundation showing the mapping of all the GPIO pins on the board. </rich_text>
+        <rich_text>
+
+</rich_text>
+        <rich_text indent="2" scale="h2">Making Connections To The Pins</rich_text>
+        <rich_text>:
+</rich_text>
+      </node>
+      <node name="BASICS" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1646414568" ts_lastsave="1646414568"/>
+      <node name="MACHINE" unique_id="7" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1646414605" ts_lastsave="1646414616">
+        <node name="ABOUT" unique_id="8" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1646414616" ts_lastsave="1646415351">
+          <rich_text scale="h1">ABOUT MACHINE</rich_text>
+          <rich_text>
+</rich_text>
+          <rich_text indent="2">WHAT IS “MACHINE” </rich_text>
+          <rich_text>: 
+Machine is a module in MicroPython that is resposible for handeling the and controlling and handeling the hardware of a specific microcontorller. This is in my opinion what makes micropython </rich_text>
+        </node>
+      </node>
+    </node>
+  </node>
+</cherrytree>
